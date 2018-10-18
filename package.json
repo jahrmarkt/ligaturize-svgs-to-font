@@ -1,0 +1,12 @@
+{
+  "name": "ligaturize-svgs-to-font",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:maexrakete/ligaturize-svgs-to-font.git",
+  "author": "Mäx <max.kiehnscherf@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "svg2ttf": "^4.1.0",
+    "svgicons2svgfont": "^9.0.3"
+  }
+}
